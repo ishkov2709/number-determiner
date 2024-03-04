@@ -9,11 +9,13 @@ Number Determiner is a web application written in vanilla JavaScript that allows
 
 ## How to run the project locally
 
-    `git clone https://github.com/yourusername/number-determiner.git`
+    `https://github.com/ishkov2709/number-determiner.git`
 
 Open the `index.html` file in your browser.
 
 ## Demo
+
+![Demo](./img/demo.jpg)
 
 A demo of the project is available at [this link](https://ishkov2709.github.io/number-determiner/).
 
