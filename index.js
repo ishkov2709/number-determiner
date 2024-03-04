@@ -89,7 +89,7 @@ refs.inputFile.addEventListener("change", ({ target }) => {
     const res = ` 
                   <p>Max Number => ${sortedArray[sortedArray.length - 1]}</p>
                   <p>Min Number => ${sortedArray[0]}</p>
-                  <p>Median => ${calculateMedian(numbersArray)}</p>
+                  <p>Median => ${calculateMedian(sortedArray)}</p>
                   <p>Average => ${calculateAverage(numbersArray)}</p>
                   <p>Increasing Sequence => ${increasingSequence(
                     numbersArray
